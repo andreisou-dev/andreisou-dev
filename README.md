@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Andrei Sousa, tenho 18 anos e sou de Carapicuíba - São Paulo. Concluí o Ensino Médio no ITB em 2025, com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP, em formação e começando na área da programação. Tenho Inglês Básico/Intermediário e alguns cursos extras que você pode verificar no meu <a href="https://www.linkedin.com/in/andrei-sousa-55662825a/">LinkedIn.</a>
+Me chamo Andrei Sousa, tenho 18 anos e sou de Carapicuíba - São Paulo. Concluí o Ensino Médio no ITB em 2025, com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP, em formação e começando na área da programação. Tenho Inglês Básico/Intermediário e alguns cursos extras que você pode verificar no meu <a href="https://www.linkedin.com/in/andrei-sousa-55662825a/" target="_blank">LinkedIn.</a>
 
 <p align="left">
     </a> 
