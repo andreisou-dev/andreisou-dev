@@ -10,7 +10,7 @@ Me chamo Andrei Sousa, tenho 18 anos e sou de Carapicuíba - São Paulo. Conclu�
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/andreisou-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/andreisou-dev?tab=followers">
